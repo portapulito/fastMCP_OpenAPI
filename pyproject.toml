@@ -1,0 +1,11 @@
+[project]
+name = "mcp-autotools"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.115.12",
+    "fastmcp>=2.6.1",
+    "google-adk>=1.2.1",
+]
